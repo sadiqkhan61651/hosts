@@ -1,0 +1,160 @@
+{
+    "records": [
+        {
+            "category": "نورانی قاعدہ",
+            "image_url": "https://listenonlinequran.com/apps/images/noorani_qaida_icon.png",
+            "api_url": "https://script.googleusercontent.com/macros/echo?user_content_key=5qEqYqGSBbpWlgSrzIU8Lzm44in0LKjwjlG_OMgHgRnvQjdJHCDlbEk1QrTjdvVqjs7oEvQ9oSz7Hb5G-iLqOE2-65a-KaulOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa9Au-uM9MWCVsJNTX1Jm8foySk8yAw-irBBr8RAauOoYeBesT95Gm9aUUOIvAwEvoHjEDoi2xQga7kkmuT3y8vTfP7ywt6soVeHu9wiMsaJJxat0dOn6__nY5AK3itf8UxtcxUiDRy-G3SzelGFzrYDK4JiEF-FVx9Nxu-6skNT-&lib=M_iz3p_iMWNZWtGMJh-tHl8ym-UzSSAPC",
+            "type": "noorani_qaida"
+        },
+        {
+            "category": "Islamic Video Maker",
+            "image_url": "https://static.vecteezy.com/system/resources/thumbnails/037/904/338/original/islamic-animation-of-beautiful-night-mosque-building-and-beautiful-trees-background-in-3d-illustration-style-seamless-looping-animated-background-video.jpg",
+            "api_url": "https://raw.githubusercontent.com/sadiqkhan61651/hosts/main/video_editor.json",
+            "type": "islamic_video_maker"
+        },
+        {
+            "category": "Askar and Dua",
+            "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/fe/94/92fe943e-e0f5-5a87-3ba8-9a7574bbb4f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+            "api_url": "https://raw.githubusercontent.com/sadiqkhan61651/hosts/main/askar.json",
+            "type": "askar_view"
+        },
+        {
+            "category": "Counter Tasbeeh",
+            "image_url": "https://www.shutterstock.com/shutterstock/photos/2270980831/display_1500/stock-photo-digital-tasbeeh-which-can-easily-edit-or-modify-2270980831.jpg",
+            "api_url": "",
+            "type": "counter"
+        },
+        {
+            "category": "Qiblah Direction",
+            "image_url": "https://static.vecteezy.com/system/resources/previews/015/753/698/original/qibla-direction-icon-design-free-vector.jpg",
+            "api_url": "",
+            "type": "qiblah_direction"
+        },
+        {
+            "category": "Pyayer Timing",
+            "image_url": "https://mir-s3-cdn-cf.behance.net/projects/404/cc4b4896693189.Y3JvcCw4MDgsNjMyLDAsMA.png",
+            "api_url": "https://muslimsalat.com/peshawar.json",
+            "type": "prayer_time"
+        },
+        {
+            "category": "Flash Light",
+            "image_url": "https://www.iconsdb.com/icons/preview/orange/flashlight-xxl.png",
+            "api_url": "",
+            "type": "flash_light"
+        },
+        {
+            "category": "99 Names Of ALLAH",
+            "image_url": "https://cdn-icons-png.flaticon.com/256/2914/2914203.png",
+            "api_url": "",
+            "type": "99_names"
+        },
+        {
+            "category": "Quran Reciters",
+            "image_url": "https://i.ytimg.com/vi/i7nhz0imHTQ/maxresdefault.jpg",
+            "api_url": "https://listenonlinequran.com/apps/api/quran_reciters_full_quran_api.json",
+            "type": "quran_reciters"
+        },
+        {
+            "category": "Translation",
+            "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61d65PdN2ZL._AC_UL210_SR210,210_.jpg",
+            "api_url": "https://listenonlinequran.com/apps/audio/quran_with_translations.json",
+            "type": "quran_translations"
+        },
+        {
+            "category": "Read Quran",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHwWUIhDDcYmI7WSGtCFMpB3oo7A-Mbgr9s2xgODSgoqMIGufKGOdiVQ3m4BM2kP7jrNA&usqp=CAU",
+            "api_url": "https://www.listenonlinequran.com/apps/api/read_quran_api.json",
+            "type": "read_quran"
+        },
+        {
+            "category": "Madinah 360",
+            "image_url": "https://w0.peakpx.com/wallpaper/404/60/HD-wallpaper-madina-islam-madina.jpg",
+            "api_url": "https://vr.qurancomplex.gov.sa/msq/",
+            "type": "open_link"
+        },
+        {
+            "category": "Hajj & Umrah",
+            "image_url": "https://zamzam.com/blog/wp-content/uploads/2021/06/feature.jpg",
+            "api_url": "https://www.muslims.host/apps/books/api/Hajj_Umrah.json",
+            "type": "read_books"
+        },
+        {
+            "category": "Labbaik Ringtones",
+            "image_url": "https://play-lh.googleusercontent.com/zPcXEzRG0cXBjylmTahRuIo9QEcPzH-zNJtORZp919aSU_eT9pPlV4uuq0sI2DoWG70=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/Labbaik_Ringtones.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "Takbeer",
+            "image_url": "https://freepngimg.com/download/android/68982-building-kaaba-quran-umrah-hajj-medina-break.png",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/takbeer_ringtones.json",
+            "type": "play_audio"
+        },
+        {
+            "category": "مسنون دعائیں",
+            "image_url": "https://play-lh.googleusercontent.com/-vNx9Vvx0VTZJuXVLjwecKhGbkTtSEY6Db_rWpU4DfKNPqTyZ-gT2tjTaV7Bx3o_3Ko=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/dua_ringtones.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "قران تلاوت ",
+            "image_url": "https://listenonlinequran.com/apps/audio/abdul_rehman_mossad/icon.png",
+            "api_url": "http://listenonlinequran.com/apps/audio/abdul_rehman_mossad/abdul_rehman_mossad.json",
+            "type": "play_audio"
+        },
+        {
+            "category": "Quran Ringtones",
+            "image_url": "https://play-lh.googleusercontent.com/2yBKhg3GSbhRIprcab3i1hqHlrIkfSSPDy0fkYbbAlN62s9O9edEFbx-ADrwwHOnz3c=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/Quran_Ringtones.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "Adhan Ringtones",
+            "image_url": "https://play-lh.googleusercontent.com/p8C32oY2Yh-RIYWdAgGlgT_mMVTEWrFcIsjD24_Vgukj_mBEG90uiHZmCNDSTKO05I8=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/Adhan_Ringtones.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "Naat Ringtones",
+            "image_url": "https://play-lh.googleusercontent.com/ujGrqerge3eDoKwNdDk3kPSbr-lZlM3dLFW5n4wLmlX01LgwHAk5LZ85MLqmBI3fk0WE=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/Naat_Ringtones.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "Dua Ringtones",
+            "image_url": "https://play-lh.googleusercontent.com/14_z_HfkRa8BedkPElsMBJT6JBJHeBuK3Sy0B0QtFEX5Ij71MIfdsfMFuYoAoSHnCmM=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/api/ringtone_categories/duas_ringtone.json",
+            "type": "online_ringtones"
+        },
+        {
+            "category": "Quotes",
+            "image_url": "https://play-lh.googleusercontent.com/7UxI5VWUcqjmbloc64Gd0ZSKxyJIIwg72o-4rdjy7LvOlSHbLfxXpWJgP0iZl7_2_ACC=w480-h960",
+            "api_url": "https://listenonlinequran.com/apps/other_api/quotes.json",
+            "type": "quotes"
+        },
+        {
+            "category": "Tasbeeh",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivkfssA5JJMS7mbYnx7Whw3UkBnFLCs2XeA&usqp=CAU",
+            "api_url": "https://storage.googleapis.com/read-and-listen-quran-offline.appspot.com/api/all_seasons_api.json",
+            "type": "tasbeeh"
+        },
+        {
+            "category": "Rate Us",
+            "image_url": "https://t4.ftcdn.net/jpg/01/17/82/43/360_F_117824364_HBs98xFech0LoXbzBKPBZrlgyCbSk8wr.jpg",
+            "api_url": "",
+            "type": "rate_us"
+        },
+        {
+            "category": "Share",
+            "image_url": "https://w7.pngwing.com/pngs/977/529/png-transparent-computer-icons-share-icon-sharing-shares-miscellaneous-angle-trademark-thumbnail.png",
+            "api_url": "",
+            "type": "share_app"
+        },
+        {
+            "category": "More Apps",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Apps-Google-Chrome-App-List-icon.png",
+            "api_url": "",
+            "type": "more_apps"
+        }
+    ]
+}
