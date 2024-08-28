@@ -33,7 +33,7 @@
         {
             "category": "Pyayer Timing",
             "image_url": "https://mir-s3-cdn-cf.behance.net/projects/404/cc4b4896693189.Y3JvcCw4MDgsNjMyLDAsMA.png",
-            "api_url": "https://muslimsalat.com/peshawar.json",
+            "api_url": "https://muslimsalat.com",
             "type": "prayer_time"
         },
         {
