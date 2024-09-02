@@ -1,0 +1,82 @@
+[
+    {
+        "title": "English To Urdu",
+        "fileName": "eng_to_urdu",
+        "from": "en",
+        "to": "ur",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1rJ9Od94TB82ps__4xLqI-1cOFsS9EBwR&export=download"
+    },
+    {
+        "title": "Urdu To English",
+        "fileName": "urdu_to_eng",
+        "from": "ur",
+        "to": "en",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1rJ9Od94TB82ps__4xLqI-1cOFsS9EBwR&export=download"
+    },
+    {
+        "title": "Arabic To English",
+        "fileName": "arabic_to_eng",
+        "from": "ar",
+        "to": "en",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1pxYSdxQvZAJFF5X-0mKwEOIoBWU7U4iA&export=download"
+    },
+    {
+        "title": "English To Arabic",
+        "fileName": "eng_to_arabic",
+        "from": "en",
+        "to": "ar",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1pxYSdxQvZAJFF5X-0mKwEOIoBWU7U4iA&export=download"
+    },
+    {
+        "title": "French To English",
+        "fileName": "french_to_eng",
+        "from": "fr",
+        "to": "en",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1It7IDDKP1K-ROFItl8EnOPVK6pSxCmM3&export=download"
+    },
+    {
+        "title": "English To French",
+        "fileName": "eng_to_french",
+        "from": "en",
+        "to": "fr",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1It7IDDKP1K-ROFItl8EnOPVK6pSxCmM3&export=download"
+    },
+    {
+        "title": "Spanish To English",
+        "fileName": "spanish_to_eng",
+        "from": "es",
+        "to": "en",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1Q2Vubk2vOh_vWKTmG_x52Bsoav3ikAI3&export=download"
+    },
+    {
+        "title": "English To Spanish",
+        "fileName": "eng_to_spanish",
+        "from": "en",
+        "to": "es",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1Q2Vubk2vOh_vWKTmG_x52Bsoav3ikAI3&export=download"
+    },
+    {
+        "title": "German To English",
+        "fileName": "german_to_eng",
+        "from": "de",
+        "to": "en",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1wG4qiQT-y4K7doxBOWJ766QqK_behK79&export=download"
+    },
+    {
+        "title": "English To German",
+        "fileName": "eng_to_german",
+        "from": "en",
+        "to": "de",
+        "img": "url",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1wG4qiQT-y4K7doxBOWJ766QqK_behK79&export=download"
+    }
+]
