@@ -3,24 +3,28 @@
     "countryName": "korea",
     "countryCode": "KR",
     "name": "Korea",
-    "password": ""
+    "password": "",
+    "url":"https://raw.githubusercontent.com/sadiqkhan61651/hosts/refs/heads/main/VPN/korea.ovpn"
   },
   {
     "countryName": "russia",
     "countryCode": "RU",
     "name": "Russia",
     "password": ""
+    ,"url":"https://raw.githubusercontent.com/sadiqkhan61651/hosts/refs/heads/main/VPN/russia.ovpn"
   },
   {
     "countryName": "thailand",
     "countryCode": "TH",
     "name": "Thailand",
     "password": ""
+    ,"url":"https://raw.githubusercontent.com/sadiqkhan61651/hosts/refs/heads/main/VPN/thailand.ovpn"
   },
   {
     "countryName": "canada",
     "countryCode": "CA",
     "name": "freevpn4you",
     "password": "9721421"
+    ,"url":"https://raw.githubusercontent.com/sadiqkhan61651/hosts/refs/heads/main/VPN/canada.ovpn"
   }
 ]
