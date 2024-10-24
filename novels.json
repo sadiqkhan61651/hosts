@@ -8,6 +8,14 @@
 "file_name": "page",
 "img": "https://listenonlinequran.com/apps/books/novels/aab-e-hayat/page1.jpg"
 },
+  {
+"name": "Abdullah-عبدالله",
+"server": "https://listenonlinequran.com/apps/books/novels/abdullah/",
+"total_pages": "193",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/abdullah/page1.jpg"
+},
 {
 "name": "Amarbail-امربیل",
 "server": "https://listenonlinequran.com/apps/books/novels/Amarbail/",
