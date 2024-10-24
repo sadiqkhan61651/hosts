@@ -184,6 +184,14 @@
 "ext": ".jpg",
 "file_name": "page",
 "img": "https://listenonlinequran.com/apps/books/novels/Zindagi-Gulzar-Hai/page1.jpg"
+},
+  {
+"name": "Aab-e-Hayat - آب حیات",
+"server": "https://listenonlinequran.com/apps/books/novels/aab-e-hayat/",
+"total_pages": "729",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/aab-e-hayat/page1.jpg"
 }
 ]
 }
