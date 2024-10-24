@@ -1,0 +1,188 @@
+{
+"books": [
+{
+"name": "Aab-e-Hayat - آب حیات",
+"server": "https://listenonlinequran.com/apps/books/novels/aab-e-hayat/",
+"total_pages": "729",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/aab-e-hayat/page1.jpg"
+},
+{
+"name": "Amarbail-امربیل",
+"server": "https://listenonlinequran.com/apps/books/novels/Amarbail/",
+"total_pages": "380",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Amarbail/page1.jpg"
+},
+{
+"name": "Humsafar-ہم سفر",
+"server": "https://listenonlinequran.com/apps/books/novels/Humsafar/",
+"total_pages": "312",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Humsafar/page1.jpg"
+},
+{
+"name": "Abdullah-عبدالله",
+"server": "https://listenonlinequran.com/apps/books/novels/abdullah/",
+"total_pages": "193",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/abdullah/page1.jpg"
+},
+{
+"name": "Iman Umeed Aur Mohabbat-ایمان امید اور محبّت",
+"server": "https://listenonlinequran.com/apps/books/novels/iman_umeed_aur_mohabbat/",
+"total_pages": "283",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/iman_umeed_aur_mohabbat/page1.jpg"
+},
+{
+"name": "Bin Roye Ansoo-بن رویۓ آنسو",
+"server": "https://listenonlinequran.com/apps/books/novels/Bin-Roye-Ansoo/",
+"total_pages": "153",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Bin-Roye-Ansoo/page1.jpg"
+},
+{
+"name": "Darbar-e-Dil-درد دل",
+"server": "https://listenonlinequran.com/apps/books/novels/Darbar-e-Dil/",
+"total_pages": "157",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Darbar-e-Dil/page1.jpg"
+},
+{
+"name": "Hasil-حاصل",
+"server": "https://listenonlinequran.com/apps/books/novels/Hasil/",
+"total_pages": "104",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Hasil/page1.jpg"
+},
+{
+"name": "Hum Kahan Kay Sachay Thay-ہم کہاں کے سچے تھے",
+"server": "https://listenonlinequran.com/apps/books/novels/Hum-Kahan-Kay-Sachay-Thay/",
+"total_pages": "97",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Hum-Kahan-Kay-Sachay-Thay/page1.jpg"
+},
+{
+"name": "Janat Kay Patay-جنّت کے پتے",
+"server": "https://listenonlinequran.com/apps/books/novels/Janat_Kay_Patay/",
+"total_pages": "326",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Janat_Kay_Patay/page1.jpg"
+},
+{
+"name": "Khawbon Ka Shajar-خوابوں کا شجر",
+"server": "https://listenonlinequran.com/apps/books/novels/Khawbon-Ka-Shajar/",
+"total_pages": "49",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Khawbon-Ka-Shajar/page1.jpg"
+},
+{
+"name": "La Hasil-لا حاصل",
+"server": "https://listenonlinequran.com/apps/books/novels/La-Hasil/",
+"total_pages": "331",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/La-Hasil/page1.jpg"
+},
+{
+"name": "Man-o-Salwa-من و سلویٰ ",
+"server": "https://listenonlinequran.com/apps/books/novels/Man-o-Salwa/",
+"total_pages": "391",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Man-o-Salwa/page1.jpg"
+},
+{
+"name": "Meri Zaat Zarra-e-Benishan-میری ذات ذرّہ بے نشاں",
+"server": "https://listenonlinequran.com/apps/books/novels/Meri-Zaat-Zarra-e-Benishan/",
+"total_pages": "69",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Meri-Zaat-Zarra-e-Benishan/page1.jpg"
+},
+{
+"name": "Mta-E-Jan-Hi-Tu:مطاع جان ہے تو",
+"server": "https://listenonlinequran.com/apps/books/novels/Mta-E-Jn-Hi-Tu/",
+"total_pages": "155",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Mta-E-Jn-Hi-Tu/page1.jpg"
+},
+{
+"name": "Mushaf-مصحف",
+"server": "https://listenonlinequran.com/apps/books/novels/Mushaf/",
+"total_pages": "126",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Mushaf/page1.jpg"
+},
+{
+"name": "Namal-نمل",
+"server": "https://listenonlinequran.com/apps/books/novels/Namal/",
+"total_pages": "1418",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Namal/page1.jpg"
+},
+{
+"name": "Peer-e-kamil-پیر کامل",
+"server": "https://listenonlinequran.com/apps/books/novels/Peer-e-kamil/",
+"total_pages": "561",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Peer-e-kamil/page1.jpg"
+},
+{
+"name": "Raja Gidh-راجہ گدھ",
+"server": "https://listenonlinequran.com/apps/books/novels/Raja-Gidh/",
+"total_pages": "562",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Raja-Gidh/page1.jpg"
+},
+{
+"name": "Seher Ek Istiara Hai-سحر اک استعارہ ہے",
+"server": "https://listenonlinequran.com/apps/books/novels/Seher-Ek-Istiara-Hai/",
+"total_pages": "97",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Seher-Ek-Istiara-Hai/page1.jpg"
+},
+{
+"name": "Shehar-e-Zaat-شہر ذات",
+"server": "https://listenonlinequran.com/apps/books/novels/Shehar-e-Zaat/",
+"total_pages": "48",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Shehar-e-Zaat/page1.jpg"
+},
+{
+"name": "Ye Jo Ek Subah Ka Sitara Hai-یہ جو صبح کا ستارہ ہے",
+"server": "https://listenonlinequran.com/apps/books/novels/Ye-Jo-Ek-Subah-Ka-Sitara-Hai/",
+"total_pages": "73",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Ye-Jo-Ek-Subah-Ka-Sitara-Hai/page1.jpg"
+},
+{
+"name": "Zindagi Gulzar Hai-زندگی گلزار ہے",
+"server": "https://listenonlinequran.com/apps/books/novels/Zindagi-Gulzar-Hai/",
+"total_pages": "111",
+"ext": ".jpg",
+"file_name": "page",
+"img": "https://listenonlinequran.com/apps/books/novels/Zindagi-Gulzar-Hai/page1.jpg"
+}
+]
+}
